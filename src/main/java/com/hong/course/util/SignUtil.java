@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 
 /**
- * Created by Administrator on 2014/3/28 15:21.
+ * Created by Cai on 2014/3/28 15:21.
  *
  * 请求效验工具类
  */
